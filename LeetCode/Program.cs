@@ -1,5 +1,5 @@
-﻿using LeetCode.LeetCodeProblems;
-using System;
+﻿using System;
+using LeetCode.LeetCodeProblems;
 
 namespace LeetCode
 {
@@ -7,8 +7,7 @@ namespace LeetCode
     {
         public static void Main(string[] args)
         {
-            string[] stringArr = new string[5] { "Ahmet", "Ahsen", "Ahegül", "Ahu", "Ahdül" };
-            string result = LongestCommonPrefix.GetLongestCommonPrefix(stringArr);
+
         }
     }
 }

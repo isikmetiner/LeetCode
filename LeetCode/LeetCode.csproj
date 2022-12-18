@@ -46,6 +46,7 @@
     <Compile Include="LeetCodeProblems\LongestCommonPrefix.cs" />
     <Compile Include="LeetCodeProblems\PalindromeNumber.cs" />
     <Compile Include="LeetCodeProblems\RomanToInteger.cs" />
+    <Compile Include="LeetCodeProblems\ValidParentheses.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="LeetCodeProblems\TwoSum.cs" />
