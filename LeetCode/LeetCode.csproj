@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LeetCodeProblems\LongestCommonPrefix.cs" />
+    <Compile Include="LeetCodeProblems\MergeTwoSortedLists.cs" />
     <Compile Include="LeetCodeProblems\PalindromeNumber.cs" />
     <Compile Include="LeetCodeProblems\RomanToInteger.cs" />
     <Compile Include="LeetCodeProblems\ValidParentheses.cs" />
