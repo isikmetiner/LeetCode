@@ -47,6 +47,7 @@
     <Compile Include="LeetCodeProblems\MergeTwoSortedLists.cs" />
     <Compile Include="LeetCodeProblems\PalindromeNumber.cs" />
     <Compile Include="LeetCodeProblems\RemoveDuplicatesFromSortedArray.cs" />
+    <Compile Include="LeetCodeProblems\RemoveElement.cs" />
     <Compile Include="LeetCodeProblems\RomanToInteger.cs" />
     <Compile Include="LeetCodeProblems\ValidParentheses.cs" />
     <Compile Include="Program.cs" />
